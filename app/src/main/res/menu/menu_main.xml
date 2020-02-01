@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.saugat.myapplication.MainActivity">
+
+    <group
+        android:id="@+id/container">
+        <item
+            android:id="@+id/actionRefresh"
+            android:icon="@drawable/ic_settings_backup_restore_black_24dp"
+            android:title="@string/action_refresh" />
+        <item
+            android:id="@+id/actionCurrentServer"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:title="@string/action_current_connection" />
+        <item
+            android:id="@+id/actionSpeedTest"
+            android:icon="@drawable/ic_near_me_black_24dp"
+            android:title="@string/speedtest" />
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/action_settings" />
+
+    </group>
+    <group
+        android:id="@+id/system">
+        <item
+            android:id="@+id/actionRate"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="Rate Us" />
+        <item
+            android:id="@+id/actionLike"
+            android:icon="@drawable/ic_thumb_up_black_24dp"
+            android:title="Like Us" />
+        <item
+            android:id="@+id/actionAbout"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="About Us" />
+
+    </group>
+</menu>

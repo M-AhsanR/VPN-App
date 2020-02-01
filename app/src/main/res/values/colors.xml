@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#4527a0</color>-->
+    <!--<color name="colorPrimaryDark">#000070</color>-->
+    <!--<color name="colorAccent">#00796b</color>-->
+
+    <color name="colorPrimary">#4f5b62</color>
+    <color name="colorPrimaryDark">#000a12</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="popUpBg">#2E9613</color>
+    <color name="listDivider">#356690</color>
+
+    <color name="toolbarTitle">#cbecfd</color>
+    <color name="toolbarBg">#356690</color>
+
+    <color name="buttonText">#cbecfd</color>
+    <color name="buttonBg">#356690</color>
+
+    <color name="totalServers">#ffffff</color>
+
+    <color name="infoServersList">#1c3f61</color>
+
+    <color name="ratingNot">#A7A7A7</color>
+
+    <color name="activeServer">#4527a0</color>
+    <color name="additionalServer">#F1DD77</color>
+
+    <color name="serverNameBg">#cbecfd</color>
+    <color name="serverName">#356690</color>
+    <color name="lightRed">#ff8a80</color>
+</resources>

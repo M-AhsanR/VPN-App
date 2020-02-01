@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jwang123.flagkit:flagkit:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/flagkit-1.0.aar/dd81b8b909a12e09bc27bdf879fb8705/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/flagkit-1.0.aar/dd81b8b909a12e09bc27bdf879fb8705/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jwang123.flagkit/flagkit/1.0/47a32b9649938827c2bba9ea55bdf87eb027c237/flagkit-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
